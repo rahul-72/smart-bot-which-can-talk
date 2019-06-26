@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/My Drive/colab_data/chatbot_tech_with_tim/data/model.tflearn"
+all_model_checkpoint_paths: "/content/drive/My Drive/colab_data/chatbot_tech_with_tim/data/model.tflearn"
