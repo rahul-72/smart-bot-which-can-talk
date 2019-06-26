@@ -24,5 +24,8 @@
     7). open youtube
     8). open stackoverflow
     9). send email to rahul  -->  after this BOT will ask you the content and you have to say the content you want to send.   --> Before that there are two file named password.txt AND username.txt in data folder of this project, open these files in any text editor and enter your username and password. Now you can send email to rahul.  With the help of creating dictionary, you can send email to all other people. 
-    
+  
+
+You can extend this project as per your demands.
+  
 **Enjoy the Smart Bot project**
